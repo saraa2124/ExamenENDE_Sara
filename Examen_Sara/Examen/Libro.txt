@@ -1,4 +1,5 @@
 clase libreria{
+<<<<<<< HEAD
 string getautor(){
 
 return autor;
@@ -9,4 +10,10 @@ public void setAutor (String autor){
 
 this.autor= autor;
 }
+=======
+titulo
+isbn
+autor
+prestado
+>>>>>>> main
 }
