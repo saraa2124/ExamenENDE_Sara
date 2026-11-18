@@ -1,3 +1,12 @@
 clase libreria{
-main
+string getautor(){
+
+return autor;
+
+}
+
+public void setAutor (String autor){
+
+this.autor= autor;
+}
 }
